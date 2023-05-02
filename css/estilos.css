@@ -139,17 +139,42 @@ main .bg-azul {
     background-color: #3F1ABE;
 }
 
-main .sep {
-    margin-top: 100px;
+main .img-monitor {
+    width: 75%;
+    height: 170px;
 }
 
-main .circulo-blue-rosado2 {
-    width: 350px;
-    height: 350px;
-    background: linear-gradient(to bottom, blue, pink);
-    border-radius: 100%;
-    margin-top: -100px;
+main .img-tablet {
+    width: 40%;
+    height: 170px;    
 }
+
+main .img-telefono {
+    width: 25%;
+    height: 170px;    
+}
+
+main .img-pc {
+    width: 90%;
+    height: 170px;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 main .img-facebook{
     width: 30px;
@@ -197,6 +222,10 @@ main .img-mc-borde {
     width: 40px;
     height: 30px;
     box-shadow: 0px 0px 2px 2px rgb(240, 120, 234);
+}
+
+main .tamaño-ca {
+    max-width: 1000px;
 }
 
 
@@ -290,6 +319,43 @@ main .img-mc-borde {
     main .separar-seccion2 {
         margin-top: 1000px;
     }
+    main .circulo-blue-rosado {
+        width: 90px;
+        height: 90px;
+        background: linear-gradient(to bottom, blue, pink);
+        border-radius: 100%;
+        margin-left: 400px;
+        margin-top: -50px;
+    }
+    main .circulo-blue-rosado1 {
+        width: 70px;
+        height: 60px;
+        background: linear-gradient(to bottom, blue, pink);
+        border-radius: 100%;
+        margin-left: 300px;
+        margin-top: 10px;
+    }
+    main .ssd {
+        width: 300px;
+        height: 218px;
+        margin-left: -10px;
+        margin-top: -37px;
+    }
+    main .cu {
+        width: 100px;
+        height: 100px;
+        margin-left: -150px;
+        margin-top: -52px;
+    }
+    
+    main .circulo-blue-rosado2 {
+        width: 100px;
+        height: 100px;
+        background: linear-gradient(to bottom, blue, pink);
+        border-radius: 100%;
+        margin-top: 20px;
+        margin-left: -20px;    
+    }
     
 }
 
@@ -345,33 +411,41 @@ main .img-mc-borde {
         background: linear-gradient(to bottom, blue, pink);
         border-radius: 100%;
         margin-left: 700px;
-        margin-top: -40px;
+        margin-top: -50px;
     }
+
     main .circulo-blue-rosado1 {
         width: 350px;
         height: 350px;
         background: linear-gradient(to bottom, blue, pink);
         border-radius: 100%;
-        margin-left: 700px;
-        margin-top: 10px;
-    }
-    main .circulo-blue-rosado2 {
-        width: 70px;
-        height: 70px;
-        background: linear-gradient(to bottom, blue, pink);
-        border-radius: 100%;
-        margin-top: 170px;
-        margin-left: -10px;
-
+        margin-left: 750px;
+        margin-top: 20px;
     }
     main .ssd {
         width: 300px;
         height: 218px;
-        margin-left: -74px;
+        margin-left: -80px;
+        margin-top: -37px;
     }
     main .alto-seccionp {
         height: 250px;
         margin-top: -100px;
+    }
+    main .cu {
+        width: 100px;
+        height: 100px;
+        margin-left: -75px;
+        margin-top: 80px;
+    }
+    
+    main .circulo-blue-rosado2 {
+        width: 100px;
+        height: 100px;
+        background: linear-gradient(to bottom, blue, pink);
+        border-radius: 100%;
+        margin-top: 20px;
+        margin-left: -20px;    
     }
    
 

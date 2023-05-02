@@ -383,3 +383,40 @@
 
 
       
+      <section class="bg-azul sep">
+        <div class="container d-flex border border-1 border-black">
+           
+
+         
+            <div class="pt-4">
+              <h5 class="fs-6 text-white">ODIO DIGNISSIMOS</h5>
+              <h2 class="display-4 text-white fw-bold">Ducimus Qui</h2>
+              <p class="letras-section1 w-75">
+                Porque tanto amó Dios al mundo que dio a su Hijo unigénito, para
+                que todo el que cree en él no se pierda, sino que tenga vida
+                eterna. (Juan 3:16)
+              </p>
+            </div>
+
+            <div class="d-flex flex-column align-items-center flex-lg-row">
+              <div class="mb-3 me-lg-2 w-75">
+                <input type="text" class="form-control" placeholder="Your Email"/>
+              </div>
+               
+              <button class="btn-amarillo mb-3">Suscribe</button>               
+            </div>
+            
+         
+           <!--
+            <div class="w-100 d-none d-lg-flex overflow-hidden alto-seccionp">
+              <div class="circulo-blue-rosado1">
+            </div>
+
+            <div class="ssd position-absolute overflow-hidden d-lg-flex d-xl-none">
+              <div class="circulo-blue-rosado2 position-absolute">     
+              </div>
+            </div>-->
+            
+          </div>
+        </div>
+      </section>
