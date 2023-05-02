@@ -159,23 +159,6 @@ main .img-pc {
     height: 170px;    
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 main .img-facebook{
     width: 30px;
     height: 30px;
@@ -299,7 +282,19 @@ main .tamaño-ca {
 @media(min-width: 400px){
     main .separar-seccion2 {
         margin-top: 880px;
-    }  
+    }
+    main .circulo-blue-rosado {
+        width: 90px;
+        height: 90px;
+        background: linear-gradient(to bottom, blue, pink);
+        border-radius: 100%;
+        margin-left: 350px;
+        margin-top: -50px;
+    }
+
+    main .scr {
+        margin-top: 1000px;
+    }
     
 }
 
@@ -324,7 +319,7 @@ main .tamaño-ca {
         height: 90px;
         background: linear-gradient(to bottom, blue, pink);
         border-radius: 100%;
-        margin-left: 400px;
+        margin-left: 480px;
         margin-top: -50px;
     }
     main .circulo-blue-rosado1 {
